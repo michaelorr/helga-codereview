@@ -1,7 +1,9 @@
-# helga-rbreview
+# helga-codereview
 
-A [helga](https://github.com/shaunduncan/helga) plugin to comment on reviewboard to point out
-flake8 errors
+A [helga](https://github.com/shaunduncan/helga) plugin to provide various codereview
+comments on reviewboard.
+
+** THIS IS NOT READY FOR USE YET **
 
 ## License
 
